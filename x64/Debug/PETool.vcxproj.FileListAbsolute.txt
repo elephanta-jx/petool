@@ -1,0 +1,2 @@
+C:\Users\Jack\source\repos\PETool\x64\Debug\PETool.exe
+C:\Users\Jack\source\repos\PETool\x64\Debug\PETool.pdb
